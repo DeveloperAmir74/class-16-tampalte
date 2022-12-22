@@ -1,0 +1,103 @@
+html{
+    scroll-behavior: smooth;
+}
+.header {
+    height: 69px;
+    background-color: #3498db;
+}
+.header-logo img {
+    width: 186px;
+    transform: translate(10px, -58px);
+}
+
+.primary-menu{}
+.primary-menu ul{
+    margin-bottom: 0px;
+    text-align: right;
+}
+.primary-menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+   
+}
+.primary-menu ul li a{
+    display: block;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 0px 30px;
+    font-size: 20px;
+    list-style: none;
+    line-height: 67px;
+   border-right: 1px solid white;
+   transition: .7s;
+    
+}
+.primary-menu ul li a:hover{
+    color: black;
+}
+
+.banner {
+  padding: 200px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/065/148/original/top-view-of-modern-workplace-laptop-coffee-paper-note-pencil-on-the-white-background-and-copy-space-for-text-business-concept-illustration-free-vector.jpg);
+}
+.banner-text h1 {
+    display: inline-block;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #34b3db4f;
+}
+.banner-text h2 {
+    background-color: #aaafb4de;
+    color: white;
+    display: block;
+    font-size: 19px;
+}
+.About.text-center {
+    background-color: #f5f8fbfe;
+}
+.service{
+    background-color: #f9f9f9;
+}
+span{
+    display: block;
+    height: 60px;
+    width: 60px;
+    background-color: #3498db;
+    color: white;
+    margin: auto;
+    font-size: 35;
+    line-height: 60px;
+    border-radius: 20px 0 20px 0;
+}
+img{
+    max-width: 100%;
+}
+::before {
+    font-size: 32px;
+}
+.product-right ul{
+    list-style: none;
+    padding-left: 0;
+
+}
+.product-right ul li{
+    background-color: #f7f7f7;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.footer{
+  background-color: #2c3e50;  
+}
+.footer p{
+    margin-bottom: 0
+}
+.footer a{
+    color: #fff;
+    display: inline-block;
+    margin-left: 15px;
+}

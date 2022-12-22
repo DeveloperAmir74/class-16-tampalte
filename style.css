@@ -1,0 +1,148 @@
+/* menu=section */
+
+.container-fluid {
+    background-color: #101446;
+}
+
+.container img {
+    width: 120px;
+}
+
+.container img {
+    width: 103px;
+    margin-top: 14px;
+}
+
+.menu {
+    padding-top: 10px;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.menu ul li a {
+    color: white;
+    text-decoration: none;
+    transition: .6s;
+}
+
+.menu ul li a:hover {
+    color: #d35400;
+}
+
+/* banner section */
+
+.banner {
+    background-size: cover;
+    color: white;
+    padding: 300px;
+    background-repeat: no-repeat;
+    background-image: url(https://i.postimg.cc/nh9XbHt6/intro-bg.jpg);
+}
+
+.am {
+    color: #fff;
+    transform: translate(-85px, 6px);
+    font-size: 40px;
+}
+
+.am1 {
+    color: #fff;
+    transform: translate(-54px, 13px);
+}
+
+.ml-5,
+.mx-5 {
+    margin-left: 37rem !important;
+    margin-top: -318px;
+}
+
+/* <!-- Our-team-section --> */
+
+.container {
+    color: white;
+}
+
+h2 {
+    color: black;
+    font-size: 56px;
+    font-weight: 400;
+    transform: translate(10px, 214%);
+}
+
+/* About us */
+
+.About-section {
+    padding: 100px;
+    padding-left: 115px;
+    background-color: #c2d4ea;
+}
+
+.container {
+    color: #101446;
+}
+
+h3.about {
+    transform: translate(108px, -73px);
+    font-size: 50px;
+}
+
+.h1,
+h1 {
+    font-size: 4.5rem;
+    transform: translate(127px, -96px);
+}
+
+.text {
+    transform: translate(166px, -237px);
+}
+
+.abo {
+    font-size: 12px;
+}
+
+.container img {
+    width: 103px;
+    margin-right: 108px;
+    margin-top: 13px;
+}
+
+p.p1 {
+    transform: translate(-61px, 10px);
+}
+
+.our-team {
+    background-color: #bac1f3;
+    padding: 100px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    transform: translate(-59px, 28px);
+}
+
+/* contact us */
+
+.contact-section {
+    padding: 100px;
+}
+
+/* footer section */
+
+.footer-section {
+    background-color: rgba(54, 40, 148, 0.909);
+}
+
+.fotter {
+    color: white;
+}
